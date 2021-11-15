@@ -12,6 +12,7 @@
 
 [21.Merge_Two_Sorted_Lists](https://github.com/RyoYang/Algorithms/blob/main/LeetCode/linked-list/21.Merge_Two_Sorted_Lists.cpp)
 
+[23.Merge_k_Sorted_Lists](https://github.com/RyoYang/Algorithms/blob/main/LeetCode/linked-list/23.Merge_k_Sorted_Lists.cpp)
 
 #### [Sliding Windows](https://github.com/RyoYang/Algorithms/tree/main/LeetCode/sliding-windows)
 [3.Longest_Substring_Without_Repeating_Characters](https://github.com/RyoYang/Algorithms/blob/main/LeetCode/sliding-windows/3.Longest_Substring_Without_Repeating_Characters.cpp)
@@ -19,10 +20,10 @@
 #### [Binary Search](https://github.com/RyoYang/Algorithms/tree/main/LeetCode/binary-search])
 [4.Median_of_Two_Sorted_Arrays](https://github.com/RyoYang/Algorithms/blob/main/LeetCode/binary-search/4.Median_of_Two_Sorted_Arrays.cpp)
 
+[33.Search_in_Rotated_Sorted_Array](https://github.com/RyoYang/Algorithms/blob/main/LeetCode/binary-search/33.Search_in_Rotated_Sorted_Array.cpp)
+
 #### [String](https://github.com/RyoYang/Algorithms/tree/main/LeetCode/string)
 [5.Longest_Palindromic_Substring](https://github.com/RyoYang/Algorithms/blob/main/LeetCode/string/5.Longest_Palindromic_Substring.cpp)
-
-
 
 #### [Two Pointer](https://github.com/RyoYang/Algorithms/tree/main/LeetCode/two-pointer)
 [11.Container_With_Most_Water](https://github.com/RyoYang/Algorithms/blob/main/LeetCode/two-pointer/11.Container_With_Most_Water.cpp)
@@ -34,3 +35,5 @@
 
 #### [Stack](https://github.com/RyoYang/Algorithms/tree/main/LeetCode/stack)
 [20.Valid_Parentheses](https://github.com/RyoYang/Algorithms/blob/main/LeetCode/stack/20.Valid_Parentheses.cpp)
+
+[32.Longest_Valid_Parentheses](https://github.com/RyoYang/Algorithms/blob/main/LeetCode/stack/32.Longest_Valid_Parentheses.cpp)
